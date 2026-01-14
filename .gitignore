@@ -1,0 +1,11 @@
+# Ignore all node_modules anywhere
+**/node_modules/
+
+# Ignore all .env files anywhere
+**/.env
+**/.env.local
+**/.env.production
+
+# Ignore build/dist folders anywhere
+**/dist/
+**/build/
